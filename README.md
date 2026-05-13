@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/0a42c96dc7c808b03c0999c0bf9c865b518246cf/athena%20intro.png" width="500">
+ <img align="center" src="https://github.com/PALLASATHENAEAN/PALLASATHENAEAN/blob/10088f714968c78fcc44918e9fdbd9773e16c38f/athena%20intro%20gif.gif" width="500">
  
   <br/>
   <br/>
