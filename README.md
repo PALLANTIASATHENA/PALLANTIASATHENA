@@ -19,6 +19,10 @@
  <p align=center
   
   ${\color{#e1f1d0}Probably \space offtab \space most \space of \space the \space time, \space unless \space im talking \space with \space my \space friends.\space{}}$
+
+   <p align=center
+  
+  ${\color{#e1f1d0}All \space art \space belong \space to \space @PimPichc \space on \space socials! \space{}}$
  <br/>
  <br/>
    <img align="center" src="https://64.media.tumblr.com/9e9714217d936d8c3f1d336debccf621/2b8887a433210248-49/s2048x3072/83c461eb1455b3fd3237bfc9f149b344335035bc.pnj">
