@@ -23,8 +23,8 @@
  <br/>
    <img align="center" src="https://64.media.tumblr.com/9e9714217d936d8c3f1d336debccf621/2b8887a433210248-49/s2048x3072/83c461eb1455b3fd3237bfc9f149b344335035bc.pnj">
  <br/>
-   <a href="https://fly.atabook.org">
-<img src="https://file.garden/aeWblX8drAn4J6VK/atabook.gif" width="200"> </a>
+ 
+<sup> <a href="https://2wo2ime.atabook.org"><img align="center" src="https://64.media.tumblr.com/9e9714217d936d8c3f1d336debccf621/2b8887a433210248-49/s2048x3072/83c461eb1455b3fd3237bfc9f149b344335035bc.pnj"> </a></sup>
 ㅤㅤㅤㅤㅤ
-<a href="[https://rentry.co/sunhold](https://everlastinggreed.straw.page)">
+<a href="https://everlastinggreed.straw.page">
 <img src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/3deefa4810d885f0fa010f353ec8da7a6554d364/strawpage.png" width="200"> </a>
