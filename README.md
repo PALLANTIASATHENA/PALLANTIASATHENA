@@ -18,7 +18,7 @@
   
  <p align=center
   
-  ${\color{#e1f1d0}Probably \space offtab \space most \space of \space the \space time, \space unless \space im talking \space with \space my \space friends.\space{}}$
+  ${\tiny \color{#e1f1d0}Probably \space offtab \space most \space of \space the \space time, \space unless \space im talking \space with \space my \space friends.\space{}}$
 
    <p align=center
   
