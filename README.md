@@ -18,9 +18,9 @@
 <p align="center">
  $\text{\small\it\color{#e1f1d0}{Feel free to C+H anytime!}}$
  <br/>
- $\text{\small\it\color{#e1f1d0}{Probably offtab most of the time, unless I'm talking with my friends}}$
+ $\text{\small\it\color{#afd5ab}{Probably offtab most of the time, unless I'm talking with my friends}}$
  <br/>
- $\text{\small\it\color{#e1f1d0}{All art belongs to @PimPichc on socials!}}$
+ $\text{\small\it\color{#5d9f87}{All art belongs to @PimPichc on socials!}}$
 
 
  <br/>
