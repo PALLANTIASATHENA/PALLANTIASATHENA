@@ -26,5 +26,5 @@
    <a href="https://fly.atabook.org">
 <img src="https://file.garden/aeWblX8drAn4J6VK/atabook.gif" width="200"> </a>
 ㅤㅤㅤㅤㅤ
-<a href="https://rentry.co/sunhold">
-<img src="https://file.garden/aeWblX8drAn4J6VK/rentry.gif" width="200"> </a>
+<a href="[https://rentry.co/sunhold](https://everlastinggreed.straw.page)">
+<img src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/3deefa4810d885f0fa010f353ec8da7a6554d364/strawpage.png" width="200"> </a>
