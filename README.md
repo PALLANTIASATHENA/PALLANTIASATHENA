@@ -14,7 +14,7 @@
 
 <p align=center
 
-  ${\color{#e1f1d0}Feel free to C+H anytime!{}}$
+  ${\color{#e1f1d0}{Feel free to C+H anytime!}}$
   
  <p align=center
   
@@ -25,4 +25,4 @@
   ${\color{#e1f1d0}All art belong to @PimPichc on socials! {}}$
  <br/>
  <br/>
-<p align="center"><a href="https://goldensovereign.atabook.org"><img src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/b912199883140df5900d4c2d45b46d508e811104/Untitled31_20260513051638.png?raw=true" width="28%"></a>&nbsp;&nbsp;&nbsp;<img src="https://64.media.tumblr.com/48d7c19617ea90aba8fb7a07fd9fbaa9/c1f5045b3508ea6e-8a/s75x75_c1/fd5f0a149fcfe0d8278cb024d4c6a394599329fe.gif" width="3%">&nbsp;&nbsp;&nbsp;<a href="https://everlastinggreed.straw.page"><img src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/b912199883140df5900d4c2d45b46d508e811104/Untitled31_20260513051645.png?raw=true" width="28%"></a></p>
+<p align="center"><a href="https://goldensovereign.atabook.org"><img src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/b912199883140df5900d4c2d45b46d508e811104/Untitled31_20260513051638.png?raw=true" width="28%"></a>&nbsp;&nbsp;&nbsp;<img src="https://64.media.tumblr.com/48d7c19617ea90aba8fb7a07fd9fbaa9/c1f5045b3508ea6e-8a/s75x75_c1/fd5f0a149fcfe0d8278cb024d4c6a394599329fe.gif" width="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://everlastinggreed.straw.page"><img src="https://github.com/PALLANTIASATHENA/PALLANTIASATHENA/blob/b912199883140df5900d4c2d45b46d508e811104/Untitled31_20260513051645.png?raw=true" width="28%"></a></p>
